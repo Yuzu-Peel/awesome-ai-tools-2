@@ -102,6 +102,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [NeverApply](https://neverapply.co) - AI job-search agent that matches you to jobs, tailors your resume for each one, and applies with your approval. Free plan available.
 - [Letterfy](https://letterfy.co/) - AI Cover Letter Generator
 - [CVFormatter](https://cvformatter.co/) - Streamline resume formatting effortlessly for headhunters  
+- [CookLLM](https://cookllm.com/en/jobs/match) - An AI job matcher that emails you new roles that fit
 
 ## Travel/Itinerary Planning
 - [Let's Trip](https://letstrip.ai/) - Crafting personalized travel itineraries
